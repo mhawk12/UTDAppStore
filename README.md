@@ -11,3 +11,5 @@ This is the first screen
 Then when you click on the first app.(Rest are just dummies but yes they all are clickable but will lead to the same app) 
 
 Second window appers
+
+(https://cloud.githubusercontent.com/assets/12582488/18415641/3879b75e-77bf-11e6-82d6-9f30d2e9033e.png)
