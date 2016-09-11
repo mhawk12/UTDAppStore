@@ -1,5 +1,7 @@
 # UTDAppStore
 
+##APK FILE IS ADDED .NAME IS app-debug.apk
+
 
 A simple collection of all the apps related to UTD at one place. No need to look here and there.
 
